@@ -2,6 +2,10 @@
 name = "line_adjustment"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/Arsynth/line_adjustment"
+description = "Line adjustment example"
+keywords = ["text", "examples", "adjustment"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
